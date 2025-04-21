@@ -1,9 +1,10 @@
 name: liquid_ball
 description: An animated waterdrop ball component that can use gradients, margins, and animation controllers.
-version: 1.0.1
+version: 1.0.2
 # repository: https://github.com/my_org/my_repo
 license: MIT 
 homepage: https://github.com/Azad-Zhang/flutter_liquid
+repository: https://github.com/Azad-Zhang/flutter_liquid
 
 environment:
   sdk: '>=2.19.0 <4.0.0'

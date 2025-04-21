@@ -4,6 +4,12 @@ A flutter package that creates animated liquid ball effect with customizable wav
 
 <img src="https://raw.githubusercontent.com/Azad-Zhang/my_image/refs/heads/main/liquid_ball.gif" style="zoom:25%;" />
 
+# Git repository
+
+https://github.com/Azad-Zhang/flutter_liquid
+
+
+
 ## Features
 
 - Smooth wave animation with customizable duration
